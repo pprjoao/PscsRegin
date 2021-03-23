@@ -4,7 +4,7 @@ Funcionalidade: Pedido de viabilidade primeiro estabelecimento
   Realizar a Viabilidade de primeiro estabelecimentoMatriz
 
   @tag1
-  Cenario: Viabilidade de Matriz na junta
+  Cenario: Viabilidade de Matriz na JUNTA
     Dado eu estou logado no regin da Bahia
     E quero realizar um Pedido de Viabilidade no municipio de "ALAGOINHAS"
     E quero que seja hologada pela "Junta Comercial do Estado da Bahia" 
